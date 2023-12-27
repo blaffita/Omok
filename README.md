@@ -6,7 +6,7 @@ The game provides the option to compete against a smart AI or a random AI, makin
                                                         Features
 
 AI Opponents: Challenge yourself by playing against a smart AI that uses external Web Services to make strategic moves. 
-              Alternatively, you can choose to play against a random AI for a more unpredictable experience.
+              Alternatively, you can choose to play against th random AI for a more predictable experience.
 
 Intuitive User Interface: The application features a user-friendly interface designed to enhance the overall gaming experience. 
                           The intuitive design ensures that players can easily navigate the game and focus on strategic moves.

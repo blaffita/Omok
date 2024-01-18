@@ -35,7 +35,7 @@ Lucid Chart: Used for designing the application, providing a visual representati
 To get started with the Omok Game Application, follow these steps:
 
 1. Clone the Repository:
-git clone https://github.com/your-username/omok-game.git
+git clone
 
 2. Navigate to the Project Directory:
 cd omok-game

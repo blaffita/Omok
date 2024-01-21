@@ -298,6 +298,7 @@ public class Omok {
         JPanel about = new JPanel(new GridLayout(0,1,5,5));
         about.add(new JLabel("Authors:"));
         about.add(new JLabel("Luis Daniel Estrada Aguirre"));
+        about.add(new JLabel("Benjamin Laffita"));
         about.add(new JLabel(""));
         about.add(new JLabel("Version: 1.0"));
         JOptionPane.showMessageDialog(frame,about,"About",JOptionPane.INFORMATION_MESSAGE);
